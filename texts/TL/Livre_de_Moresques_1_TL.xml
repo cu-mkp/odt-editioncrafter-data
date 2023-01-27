@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <p>
+               Book of Moresques <distinct type="utility">Very useful</distinct> &amp; <distinct type="utility">necessary</distinct> for all <name type="profession">Goldsmiths</name>, <name type="profession">Tailors</name>, <name type="profession">Engravers</name>, <name type="profession">Painters</name>, <name type="profession">Tapissers</name>, <name type="profession">Embroiderers</name>, <name type="profession">Lineners</name>, &amp; <name type="profession">women, who work the needle</name>.
+            </p>
+         </div> 
+         <div>
+            <p>
+               Printed in Paris at the home of <name type="publisher">Hierosme de Gormont</name>, Saint Jacques street, at the sign of the Three Silver Crowns.
+            </p> 
+            <p>
+               <date>1546</date>.
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>

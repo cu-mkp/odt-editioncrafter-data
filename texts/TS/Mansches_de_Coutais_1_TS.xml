@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <p>
+               <foreign xml:lang="fr"><objectType>Mansches de<lb/>
+               Coutiaus</objectType>, aveques<lb/>
+               <objectType>les feremens de la gaine</objectType>,<lb/>
+               de <distinct type="variety">plusieurs sortes</distinct> <distinct type="utility">fort<lb/>
+                  profitable</distinct> pour les <name type="profession">argentiers</name><lb/>
+                  ou <name type="profession">aultres artisiens</name>, fair par</foreign><lb/>
+                  <name type="printmaker+publisher+designer">Io: Theodori de Brÿ</name>.
+            </p> 
+            <p>
+               <foreign xml:lang="de"><objectType>Neuwe Messer hauben</objectType> mit di<lb/>
+               <objectType>beschlagē zu der scheiden</objectType> auf<lb/>
+               <distinct type="variety">måncherleÿ weiss</distinct> <distinct type="utility">zehr<lb/>
+                  nutzlich</distinct> fur <name type="profession">goltschmid=<lb/>
+                     en</name> und <name type="profession">andere<lb/>
+               liebhaber</name>.</foreign>
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>

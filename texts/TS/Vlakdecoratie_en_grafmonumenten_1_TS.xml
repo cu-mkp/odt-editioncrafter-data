@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <p>
+               <foreign xml:lang="nl">Veelderleÿ <distinct type="novelty">niewe inventien</distinct> van<lb/>
+               <objectType>antÿcksche sepultueren</objectType> diemen<lb/>
+               nou <distinct type="utility">zeere ghebruÿkende</distinct> is<lb/>
+               met noch zeer fraeÿe <distinct type="support"><objectType>gro=<lb/>
+               tissen</objectType></distinct> en <distinct type="support"><objectType>compertimenten</objectType></distinct> <distinct type="utility">zeer<lb/>
+               beqwame </distinct>voer <name type="profession">beeltsniders</name> <name type="profession">an=<lb/>
+               tÿcksniders</name> <name type="profession">schilders</name> en <name type="profession">alle<lb/>
+               constenaers</name> ghedruckt bÿ mÿ<lb/></foreign>
+               <name type="publisher">Ieronÿmus . Cock</name> .<lb/>
+               <date>1557</date> .
+            </p>
+            <p>
+               <name type="designer">C . FLORIS</name> <foreign xml:lang="la">INVENT .<lb/>
+               LIBRO . SECUNDO .<lb/>
+               Cum gratia et privilegio .
+               </foreign>
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>
