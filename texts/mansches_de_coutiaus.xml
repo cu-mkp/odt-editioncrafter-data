@@ -14,6 +14,7 @@
 	</teiHeader>
 	<text xml:id="text-1">
 		<body>
+			<pb facs="#f000"/>
 			<div facs="#f000_z085">
 				<p><objectType>Knife handles</objectType>, together with <objectType>iron ornaments for the sheath</objectType>, of <distinct type="variety">all kinds</distinct>, <distinct type="utility">very beneficial</distinct> for <name type="profession">silversmiths</name> or <name type="profession">other artisans</name>, made by <name type="printmaker+publisher+designer">Io: Theodori de Brÿ</name>.</p>
 				<p>New <objectType>knife covers</objectType> along with <objectType>fittings for sheaths</objectType>, in <distinct type="variety">various manners</distinct>, <distinct type="utility">very useful</distinct> for <name type="profession">goldsmiths</name> and <name type="profession">other lovers of art</name>.</p>
@@ -22,6 +23,7 @@
 	</text>
 	<text xml:id="text-2">
 		<body>
+			<pb facs="#f000"/>
 			<div facs="#f000_z085">
 				<p><foreign xml:lang="fr"><objectType>Mansches de<lb/> Coutiaus</objectType>, aveques<lb/> <objectType>les feremens de la gaine</objectType>,<lb/> de </foreign><distinct type="variety"><foreign xml:lang="fr">plusieurs sortes</foreign></distinct><foreign xml:lang="fr"></foreign><distinct type="utility"><foreign xml:lang="fr">fort<lb/> profitable</foreign></distinct><foreign xml:lang="fr"> pour les </foreign><name type="profession"><foreign xml:lang="fr">argentiers</foreign></name><foreign xml:lang="fr"><lb/> ou </foreign><name type="profession"><foreign xml:lang="fr">aultres artisiens</foreign></name><foreign xml:lang="fr">, fair par</foreign><lb/> <name type="printmaker+publisher+designer">Io: Theodori de Brÿ</name>.</p>
 				<p>

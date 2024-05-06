@@ -14,6 +14,7 @@
 	</teiHeader>
 	<text xml:id="text-1">
 		<body>
+			<pb facs="#f000"/>
 			<div facs="#f000_z076">
 				<p><objectType>Grotesques</objectType> <name type="profession">for all artists</name>. </p>
 				<p><objectType>Grotesques</objectType> <name type="profession">for all artisans</name>.</p>
@@ -28,6 +29,7 @@
 	</text>
 	<text xml:id="text-2">
 		<body>
+			<pb facs="#f000"/>
 			<div facs="#f000_z076">
 				<p>
 					<foreign xml:lang="de">

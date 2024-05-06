@@ -13,7 +13,8 @@
 		</fileDesc>
 	</teiHeader>
 	<text xml:id="text-1">
-		<body>
+		<body>			
+			<pb facs="#f000"/>
 			<div facs="#f000_z115">
 				<p>
 					<foreign xml:lang="la"><objectType>CARYATIDVM</objectType> VVULGVS <objectType>TERMAS</objectType> VOCAT<lb/> SIVE <objectType>ATHLANTIDVM</objectType></foreign>
@@ -36,8 +37,9 @@
 	</text>
 	<text xml:id="text-2">
 		<body>
+			<pb facs="#f000"/>
 			<div facs="#f000_z115">
-				<p>Of <distinct type="variety">many-shaped</distinct> <objectType>caryatids</objectType> (which common people call <objectType>terms</objectType>) or <objectType>atlantids</objectType> clothed in white, <distinct type="variety">adapted to any order of </distinct><distinct type="support">architecture</distinct> whatsoever, used during the <date>first century</date>, skillfully invented of this art. </p>
+				<p><pb facs="#f000"/>Of <distinct type="variety">many-shaped</distinct> <objectType>caryatids</objectType> (which common people call <objectType>terms</objectType>) or <objectType>atlantids</objectType> clothed in white, <distinct type="variety">adapted to any order of </distinct><distinct type="support">architecture</distinct> whatsoever, used during the <date>first century</date>, skillfully invented of this art. </p>
 				<p><distinct type="abundance">Many</distinct> <distinct type="variety">diverse</distinct> <objectType>terms</objectType> according to the five orders of building for the benefit of all <name type="profession">sculptors</name> and <name type="profession">stonemasons</name>, <name type="profession">joiners</name>, <name type="profession">glass etchers</name>, and <name type="profession">all artistic craftspeople</name> or <name type="profession">all those who love antique frame decorations</name>. Invented by <name type="designer">Hans Vreedeman de Vries</name>. Published by <name type="publisher">Gerard de Jode</name>.</p>
 			</div>
 		</body>

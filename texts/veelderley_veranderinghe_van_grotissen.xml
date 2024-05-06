@@ -14,6 +14,7 @@
 	</teiHeader>
 	<text xml:id="text-1">
 		<body>
+			<pb facs="#f000"/>
 			<div facs="#f000_z054">
 				<p><distinct type="abundance">Many</distinct><distinct type="variety">variations</distinct> of <objectType>grotesques</objectType> and <objectType>compartments</objectType> made <distinct type="utility">for the use of</distinct> <name type="profession">all those who love and use art.</name> Printed by <name type="printer">Hieronymus Cock</name> <date>1556</date>.</p>
 				<p><name type="designer">Cornelis Floris</name> invented.</p>
@@ -26,6 +27,7 @@
 	</text>
 	<text xml:id="text-2">
 		<body>
+			<pb facs="#f000"/>
 			<div facs="#f000_z054">
 				<p><distinct type="abundance"><foreign xml:lang="it">Veelderley </foreign></distinct><distinct type="variety"><foreign xml:lang="it">Veran=<lb/> deringhe</foreign></distinct><foreign xml:lang="it"> van <objectType>grotissen</objectType><lb/> ende <objectType>Compertimenten</objectType> ghe=<lb/> maeckt </foreign><distinct type="utility"><foreign xml:lang="it">tot dienste<lb/> van</foreign></distinct><foreign xml:lang="it"></foreign><name type="profession"><foreign xml:lang="it">alle die de<lb/> conste beminne ende<lb/> ghebruiken </foreign></name><foreign xml:lang="it">ghedruckt<lb/> by </foreign><name type="printer">Hieronimus Cock</name><lb/> <date>1556</date>.</p>
 				<p><name type="designer">Cornelis Floris</name> <foreign xml:lang="it">Inuetor.</foreign></p>
