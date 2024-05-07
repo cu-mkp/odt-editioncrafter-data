@@ -1,0 +1,17 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="text-2">
+		<body>
+			<pb facs="#f000"/>
+			<div facs="#f000_z054">
+				<p><distinct type="abundance"><foreign xml:lang="it">Veelderley </foreign></distinct><distinct type="variety"><foreign xml:lang="it">Veran=<lb/> deringhe</foreign></distinct><foreign xml:lang="it"> van <objectType>grotissen</objectType><lb/> ende <objectType>Compertimenten</objectType> ghe=<lb/> maeckt </foreign><distinct type="utility"><foreign xml:lang="it">tot dienste<lb/> van</foreign></distinct><foreign xml:lang="it"/><name type="profession"><foreign xml:lang="it">alle die de<lb/> conste beminne ende<lb/> ghebruiken </foreign></name><foreign xml:lang="it">ghedruckt<lb/> by </foreign><name type="printer">Hieronimus Cock</name><lb/> <date>1556</date>.</p>
+				<p><name type="designer">Cornelis Floris</name> <foreign xml:lang="it">Inuetor.</foreign></p>
+				<p>
+					<foreign xml:lang="it">Libro primo.</foreign>
+				</p>
+			</div>
+			<div facs="#f000_z055">
+				<p>
+					<foreign xml:lang="it">Cum. G. Et privilegio.</foreign>
+				</p>
+			</div>
+		</body>
+	</text>
